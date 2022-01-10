@@ -17,6 +17,7 @@
       author: Koehn
       title: "\"History\", Ch. 3 of \"Neural Machine Translation\""
       pages: 49-58
+      url: https://doi-org.proxy2.library.illinois.edu/10.1017/9781108608480
     -
       author: Hutchins
       title: "\"The whisky was invisible\", or Persistent myths of MT"
@@ -256,6 +257,7 @@
       author: Koehn
       title: "\"Tree-Based Models\", Ch. 11.0-11.2 of \"Statistical Machine Translation\""
       pages: 331-346
+      url: https://doi-org.proxy2.library.illinois.edu/10.1017/CBO9780511815829
     -
       author: Koehn
       title: "Slides for Chapter 11: Tree-based Models"
@@ -309,6 +311,7 @@
       author: Koehn
       title: "\"Language Models\", Ch. 7.0-7.2 of \"Statistical Machine Translation\""
       pages: 181-196
+      url: https://doi-org.proxy2.library.illinois.edu/10.1017/CBO9780511815829
     -
       author: Koehn
       title: "Slides for Chapter 7: Language Models"
@@ -332,6 +335,7 @@
       author: Koehn
       title: "\"Word-Based Models\", Ch. 4.0-4.1 of \"Statistical Machine Translation\""
       pages: 81-87
+      url: https://doi-org.proxy2.library.illinois.edu/10.1017/CBO9780511815829
     -
       author: Koehn
       title: "Slides for Chapter 4: Word-based Models"
@@ -352,6 +356,7 @@
       author: Koehn
       title: "\"Phrase-Based Models\", Ch. 5.0-5.2 of \"Statistical Machine Translation\""
       pages: 127-136
+      url: https://doi-org.proxy2.library.illinois.edu/10.1017/CBO9780511815829
     -
       author: Koehn
       title: "Slides for Chapter 5: Phrase-based models"
@@ -372,6 +377,7 @@
       author: Koehn
       title: "\"Decoding\", Ch. 6.0-6.2 of \"Statistical Machine Translation\""
       pages: 155-167
+      url: https://doi-org.proxy2.library.illinois.edu/10.1017/CBO9780511815829
     -
       author: Koehn
       title: "Slides for Chapter 6: Decoding"
@@ -408,15 +414,18 @@
       author: Koehn
       title: "\"Neural Networks\", Ch. 5.0-5.5.0 of \"Neural Machine Translation\""
       pages: 83-89
+      url: https://doi-org.proxy2.library.illinois.edu/10.1017/9781108608480
     -
       author: Koehn
       title: "Ch. 5.5.1-5.5.4 of \"Neural Machine Translation\""
       pages: 89-93
+      url: https://doi-org.proxy2.library.illinois.edu/10.1017/9781108608480
       optional: true
     -
       author: Koehn
       title: "Ch. 5.5.5 and Figure 5.6 of \"Neural Machine Translation\""
       pages: 93-94
+      url: https://doi-org.proxy2.library.illinois.edu/10.1017/9781108608480
 -
   week: 10
   date: 2020-03-24
@@ -427,16 +436,19 @@
       author: Koehn
       title: "\"Computation Graphs\", Ch. 6.0-6.1 of \"Neural Machine Translation\""
       pages: 103-104
+      url: https://doi-org.proxy2.library.illinois.edu/10.1017/9781108608480
     -
       author: Koehn
       title: "\"Gradient Computations\", Ch. 6.2 of \"Neural Machine Translation\""
       pages: 103-108      
       grad_level: true
+      url: https://doi-org.proxy2.library.illinois.edu/10.1017/9781108608480
     -
       author: Koehn
       title: "\"Hands-On: Deep Learning Frameworks\", Ch. 6.3 of \"Neural Machine Translation\""
       pages: 108-114
       grad_level: true
+      url: https://doi-org.proxy2.library.illinois.edu/10.1017/9781108608480
 -
   week: 11
   date: 2020-03-29
@@ -448,6 +460,7 @@
       author: Koehn
       title: "\"Neural Language Models\", Ch. 7.0-7.2 of \"Neural Machine Translation\""
       pages: 115-121
+      url: https://doi-org.proxy2.library.illinois.edu/10.1017/9781108608480
 -
   week: 11
   date: 2020-03-31
@@ -458,6 +471,7 @@
       author: Koehn
       title: "\"Recurrent Neural Language Models\", Ch. 7.4 of \"Neural Machine Translation\""
       pages: 122-124
+      url: https://doi-org.proxy2.library.illinois.edu/10.1017/9781108608480
 -
   week: 12
   date: 2020-04-05
@@ -471,6 +485,7 @@
       author: Koehn
       title: "\"Neural Translation Models\", Ch. 8.0-8.2 of \"Neural Machine Translation\""
       pages: 137-142
+      url: https://doi-org.proxy2.library.illinois.edu/10.1017/9781108608480
 -
   week: 12
   date: 2020-04-07
@@ -481,10 +496,12 @@
       author: Koehn
       title: "\"The Translation Problem\", Ch. 1 of \"Neural Machine Translation\""
       pages: 23-37
+      url: https://doi-org.proxy2.library.illinois.edu/10.1017/9781108608480
     -
       author: Koehn
       title: "\"Uses of Machine Translation\", Ch. 2 of \"Neural Machine Translation\""
       pages: 39-47
+      url: https://doi-org.proxy2.library.illinois.edu/10.1017/9781108608480
 -
   week: 13
   date: 2020-04-12
@@ -496,6 +513,7 @@
       author: Koehn
       title: "\"Evaluation\", Ch. 4 of \"Neural Machine Translation\""
       pages: 59-80
+      url: https://doi-org.proxy2.library.illinois.edu/10.1017/9781108608480
     -
       author: Hutchins
       title: "Has machine translation improved? Some historical comparisons"
