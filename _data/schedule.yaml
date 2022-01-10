@@ -1,0 +1,621 @@
+-
+  week: 1
+  date: 2020-01-21
+  title: "Introduction to Machine Translation"
+  lecturer: Lane Schwartz
+  reading:
+    -
+     author: Lewis-Kraus 
+     title: Is Translation an Art or a Math Problem?
+     url: http://www.nytimes.com/2015/06/07/magazine/is-translation-an-art-or-a-math-problem.html
+    -
+      author: Hutchins
+      title:  The history of machine translation in a nutshell
+      url: http://www.mt-archive.info/10/Hutchins-2014.pdf 
+      pages: 1-5
+    -
+      author: Koehn
+      title: "\"History\", Ch. 3 of \"Neural Machine Translation\""
+      pages: 49-58
+    -
+      author: Hutchins
+      title: "\"The whisky was invisible\", or Persistent myths of MT"
+      url: http://www.mt-archive.info/90/MTNI-1995-Hutchins.pdf  
+-
+  week: 1
+  date: 2020-01-23
+  title: Universal Language in the 17th century
+  slides: slides/Universal_Language_in_the_17th_Century.pdf
+  lecturer: Lane Schwartz
+  reading:
+    -
+      author: Schwartz
+      title: Video Lecture
+      url: https://www.youtube.com/watch?v=4j8sM132NsM
+    -
+      author: Okrent
+      title: Pangloss Regained
+      url: http://www.nypl.org/blog/2010/03/23/pangloss-regained
+    -
+      author: Descartes
+      title: Letter to Mersenne, 20 November 1629
+      pages: 6-8
+      url: http://www.earlymoderntexts.com/assets/pdfs/descartes1619_1.pdf
+    -
+      author: Swift
+      title: Gulliver's Travels (Ch. 3.5)
+      url: papers/1726_Gullivers_Travels_pt3_ch5_excerpt.pdf
+    -
+      author: Foer
+      title:  Utopian for Beginners
+      url: http://www.newyorker.com/magazine/2012/12/24/utopian-for-beginners
+    -
+      author: Wilkins
+      title: An Essay Towards a Real Character and a Philosophical Language (Ch. 1.5)
+      url: http://quod.lib.umich.edu/e/eebo/A66045.0001.001/1:7.5?rgn=div2;view=fulltext
+      grad_level: true
+    -
+      author: Couturat
+      title: The Logic of Leibniz (Ch. 3)
+      url: https://web.archive.org/web/20070123230920/http://philosophy2.ucsd.edu/~rutherford/Leibniz/ch3.htm
+      optional: true
+    -
+      author: Wilkins
+      title: An Essay Towards a Real Character and a Philosophical Language (Ch. 2.1)
+      url: http://quod.lib.umich.edu/e/eebo/A66045.0001.001/1:8.1?rgn=div2;view=fulltext
+      optional: true
+    -
+      author: NPR
+      title: The Unsuccessful Quest for a Universal Language
+      url: http://www.npr.org/templates/story/story.php?storyId=185348917
+      optional: true
+    -
+      author: Bigham
+      title: "Video Lecture: Constructed & Invented Languages"
+      url: https://www.youtube.com/watch?v=fmsXMutR4vU
+      optional: true
+    -
+      author: Dalarna University
+      title: "Video Lecture: The Universal Language (part 3)"
+      url: https://www.youtube.com/watch?v=7NVOrNfnaU8
+      optional: true
+    -
+      author: Heinlein
+      title:  Gulf
+      optional: true
+    -
+      author: Gode
+      title: Interlingua
+      url: http://onlinelibrary.wiley.com/doi/10.1111/j.1460-2466.1955.tb01101.x/pdf
+      optional: true
+    -
+      author: Seargeant
+      title: "Why Tolkien’s fantastic imaginary languages have had more impact than Esperanto"
+      url: http://www.independent.co.uk/arts-entertainment/books/why-tolkien-s-fantastic-imaginary-languages-have-had-more-impact-than-esperanto-a7523896.html
+      optional: true
+-
+  week: 2
+  date: 2020-01-28
+  title: Machine Translation in the 1930s
+  lecturer: Lane Schwartz
+  reading:
+    -
+      author: Hutchins
+      title:  Two precursors of machine translation - Artsrouni and Trojanskij
+      url: http://www.mt-archive.info/00/IJT-2004-Hutchins.pdf   
+-
+  week: 2
+  date: 2020-01-30
+  title: Machine Translation in the 1940s 
+  lecturer: Lane Schwartz
+  reading:
+    -
+      author: Hutchins
+      title: Milestones in MT - How it all began in 1947 and 1948
+      url: http://www.mt-archive.info/90/LangToday-1997-Hutchins.pdf
+    -
+      author: Weaver & Wiener
+      title:  Correspondence
+      url: http://www.mt-archive.info/50/Weaver-1947-original.pdf
+    -
+      author: Weaver & Prager
+      title:  Correspondence
+      url: http://www.mt-archive.info/50/Weaver-1948-1.pdf
+    -
+      author: Hutchins
+      title: Milestones in MT - Warren Weaver's 1949 memorandum
+      url: http://www.mt-archive.info/90/LangToday-1998-Hutchins-1.pdf
+    -
+      author: Weaver
+      title: Translation
+      url: http://www.mt-archive.info/50/Weaver-1949.pdf
+-
+  week: 3
+  date: 2020-02-04
+  title: 1948-1950 The Noisy Channel Model
+  lecturer: Lane Schwartz
+  slides: slides/Noisy_Channel_Model.pdf
+  reading:
+    -
+      author: Schwartz
+      title: Video Lecture (The Noisy Channel Model)
+      url: https://www.youtube.com/watch?v=zjWXLD_ihOc
+    -
+      author: Weaver
+      title: The Mathematics of Communications
+      url: http://www.mt-archive.info/50/SciAm-1949-Weaver.pdf
+    -
+      author: Chiu, et al
+      title: Mathematical Theory of Claude Shannon
+      url: http://web.mit.edu/6.933/www/Fall2001/Shannon1.pdf
+      optional: true
+    -
+      author: Shannon
+      title: A Mathematical Theory of Communication
+      url: https://ia601607.us.archive.org/35/items/bstj27-3-379/bstj27-3-379_text.pdf
+      grad_level: true
+-
+  week: 3
+  date: 2020-02-06
+  title: 1951-1952 - Academic MT Research Begins
+  lecturer: Lane Schwartz
+  reading:
+    -
+      author: Hutchins
+      title: Milestones in MT - Bar-Hillel's survey
+      url: http://www.hutchinsweb.me.uk/Milestones-3.pdf
+    -
+      author: Bar-Hillel
+      title: The Present State of Research on Mechanical Translation
+      url: http://www.mt-archive.info/Bar-Hillel-1951.pdf
+    -
+      author: Hutchins
+      title: Milestones in MT - The first machine translation conference
+      url: http://www.hutchinsweb.me.uk/Milestones-4.pdf
+    -
+      author: Reifler
+      title: The First Conference on Mechanical Translation
+      url: http://www.mt-archive.info/50/MT-1954-Reifler.pdf
+      optional: true
+-
+  week: 4
+  date: 2020-02-11
+  title: 1954-1966 The Decade of Optimism
+  lecturer: Lane Schwartz
+  reading:
+    -
+      author: Hutchins
+      title: Milestones in MT - The IBM-Georgetown Demonstration
+      url: http://www.mt-archive.info/90/LangToday-1999-Hutchins.pdf
+    -
+      author: Welt im Bild
+      title: Newscast from 26 January 1954 (03:35-04:20 in the video)
+      url: https://www.filmothek.bundesarchiv.de/video/583146
+    -
+      author: New York Times
+      title: Russian is turned into English by a fast electronic translator
+      url: http://www.mt-archive.info/NYT-1954-Plumb.pdf
+    -
+      author: New York Herald Tribune
+      title: Electronic Linguistics
+      url: http://www.mt-archive.info/NYHT-1954-2.pdf
+    -
+      author: Toronto Globe and Mail
+      title: Electronic Translations Possible in Five Years
+      url: http://www.mt-archive.info/GlobeMail-1954.pdf
+    -
+      author: IBM Press Release
+      title:  701 Translator
+      url: http://www.mt-archive.info/IBM-1954.pdf
+      optional: true   
+    -
+      author: Hutchins
+      title: Milestones in MT - Bar-Hillel and the nonfeasibility of FAHQT
+      url: http://www.mt-archive.info/90/IJLangDoc-1999-Hutchins.pdf
+    -
+      author: Bar-Hillel
+      title: The Present Status of Automatic Translation of Languages
+      url: http://www.mt-archive.info/Bar-Hillel-1960.pdf
+    -
+      author: Yngve
+      title: Sentence-for-sentence translation
+      url: http://www.mt-archive.info/50/MT-1955-Yngve.pdf
+      grad_level: true
+    -
+      author: Parker-Rhodes
+      title: An Electronic Computer Program for Translating Chinese into English
+      url: http://www.mt-archive.info/50/MT-1956-Parker-Rhodes.pdf
+      optional: true
+    -
+      author: King
+      title: Stochastic Methods of Mechanical Translation
+      url: http://www.mt-archive.info/50/MT-1956-King.pdf
+-
+  week: 4
+  date: 2020-02-13
+  title: 1966 - The ALPAC Report
+  lecturer: Lane Schwartz
+  reading:
+    -
+      author: Hutchins
+      title: ALPAC - the (in)famous report
+      url: http://www.hutchinsweb.me.uk/MTNI-14-1996.pdf
+    -
+      author: ALPAC
+      title: Language and Machines - Computers in Translation and Linguistics
+      url: http://www.mt-archive.info/50/ALPAC-1966.pdf
+      pages: 1-35
+-
+  week: 5
+  date: 2020-02-18
+  title: Tree-Based Models
+  lecturer: Lane Schwartz
+  slides: http://statmt.org/book/slides/11-tree-based-models.pdf
+  reading:
+    -
+      author: Koehn
+      title: "\"Tree-Based Models\", Ch. 11.0-11.2 of \"Statistical Machine Translation\""
+      pages: 331-346
+    -
+      author: Koehn
+      title: "Slides for Chapter 11: Tree-based Models"
+      url: http://statmt.org/book/slides/11-tree-based-models.pdf 
+-
+  week: 5
+  date: 2020-02-20
+  title: "Approaches to MT: The Vauquois Triangle"
+  lecturer: Lane Schwartz
+  reading:
+    -
+      author: Vauquois
+      title: "Automatic Translation - A Survey of Different Approaches"
+      url: http://www.mt-archive.info/70/SMIL-1976-Vauquois.pdf
+    -
+      author: "Hutchins & Somers"
+      title: "An Introduction to machine translation (Ch. 4)"
+      url: http://www.hutchinsweb.me.uk/IntroMT-4.pdf
+    -
+      author: Dorr, et al
+      title: "A Survey of Current Paradigms in Machine Translation"
+      url: http://www.umiacs.umd.edu/users/bonnie/Publications/newai98.pdf
+      optional: true
+-
+  week: 6
+  date: 2020-02-25
+  title: Interlingual Machine Translation
+  lecturer: Lane Schwartz
+  reading:
+    -
+      author: Melby
+      title: The Possibility of Language
+      url: papers/1995_Melby.pdf
+      pages: 43-49 
+    -
+      author: Schuster et al
+      title: Zero-Shot Translation with Google’s Multilingual Neural MT System
+      url: https://research.googleblog.com/2016/11/zero-shot-translation-with-googles.html
+    -
+      author: Delavenay
+      title: "\"Languages, Interlanguage, and Metalanguage\", Ch. 4.1 of \"An Introduction to Machine Translation\""
+      url: http://www.mt-archive.info/50/Delavenay-1960.pdf
+      pages: 46-54
+-
+  week: 6
+  date: 2020-02-27
+  title: N-gram language models
+  slides: http://statmt.org/book/slides/07-language-models.pdf
+  reading:
+    -
+      author: Koehn
+      title: "\"Language Models\", Ch. 7.0-7.2 of \"Statistical Machine Translation\""
+      pages: 181-196
+    -
+      author: Koehn
+      title: "Slides for Chapter 7: Language Models"
+      url: http://statmt.org/book/slides/07-language-models.pdf
+    -
+      author: "Jurafsky & Martin"
+      title: "\"N-gram language models\", Ch. 3 of \"Speech and Language Processing, draft 3rd edition\""
+      url: https://web.stanford.edu/~jurafsky/slp3/3.pdf
+      optional: true  
+-
+  week: 7
+  date: 2020-03-03
+-
+  week: 7
+  date: 2020-03-05
+  title: Statistical Word-Based MT
+  lecturer: Lane Schwartz
+  slides: http://statmt.org/book/slides/04-word-based-models.pdf
+  reading:
+    -
+      author: Koehn
+      title: "\"Word-Based Models\", Ch. 4.0-4.1 of \"Statistical Machine Translation\""
+      pages: 81-87
+    -
+      author: Koehn
+      title: "Slides for Chapter 4: Word-based Models"
+      url: http://statmt.org/book/slides/04-word-based-models.pdf
+    -
+      author: "Brown, et al"
+      title: "A Statistical Approach to Language Translation"
+      url: http://aclweb.org/anthology/C/C88/C88-1016.pdf
+      grad_level: true
+-
+  week: 8
+  date: 2020-03-10
+  title: Statistical Phrase-Based MT
+  lecturer: Lane Schwartz
+  slides: http://statmt.org/book/slides/05-phrase-based-models.pdf
+  reading:
+    -
+      author: Koehn
+      title: "\"Phrase-Based Models\", Ch. 5.0-5.2 of \"Statistical Machine Translation\""
+      pages: 127-136
+    -
+      author: Koehn
+      title: "Slides for Chapter 5: Phrase-based models"
+      url: http://statmt.org/book/slides/05-phrase-based-models.pdf
+    -
+      author: "Koehn, et al"
+      title: "Statistical Phrase-Based Translation"
+      url: http://aclweb.org/anthology/N/N03/N03-1017.pdf
+      grad_level: true
+-
+  week: 8
+  date: 2020-03-12
+  title: Decoding
+  lecturer: Lane Schwartz
+  slides: http://statmt.org/book/slides/06-decoding.pdf
+  reading:
+    -
+      author: Koehn
+      title: "\"Decoding\", Ch. 6.0-6.2 of \"Statistical Machine Translation\""
+      pages: 155-167
+    -
+      author: Koehn
+      title: "Slides for Chapter 6: Decoding"
+      url: http://statmt.org/book/slides/06-decoding.pdf
+    -
+      author: Schwartz
+      title: "Stack decoding video walk-through"
+      url: https://www.youtube.com/edit?o=U&video_id=yX8_3zTRYzo
+-
+  week: 09
+  date: 2020-03-17
+  title: Spring Break
+  lecturer:
+-
+  week: 09
+  date: 2020-03-19
+  title: Spring Break
+  lecturer:
+-
+  week: 10
+  date: 2020-03-24
+  title: Introduction to neural networks
+  lecturer: Lane Schwartz
+  reading:
+    -
+      author: Schwartz
+      title: "Video lecture: Neural network concepts - mathematical functions"
+      url: https://www.youtube.com/watch?v=VSTPIRTp9yE
+      times: "00:00-07:11"
+      length:
+         value: 7
+         unit: "minutes"
+    -
+      author: Koehn
+      title: "\"Neural Networks\", Ch. 5.0-5.5.0 of \"Neural Machine Translation\""
+      pages: 83-89
+    -
+      author: Koehn
+      title: "Ch. 5.5.1-5.5.4 of \"Neural Machine Translation\""
+      pages: 89-93
+      optional: true
+    -
+      author: Koehn
+      title: "Ch. 5.5.5 and Figure 5.6 of \"Neural Machine Translation\""
+      pages: 93-94
+-
+  week: 10
+  date: 2020-03-26
+  title: Neural networks as computation graphs
+  lecturer: Lane Schwartz
+  reading:
+    -
+      author: Koehn
+      title: "\"Computation Graphs\", Ch. 6.0-6.1 of \"Neural Machine Translation\""
+      pages: 103-104
+    -
+      author: Koehn
+      title: "\"Gradient Computations\", Ch. 6.2 of \"Neural Machine Translation\""
+      pages: 103-108      
+      grad_level: true
+    -
+      author: Koehn
+      title: "\"Hands-On: Deep Learning Frameworks\", Ch. 6.3 of \"Neural Machine Translation\""
+      pages: 108-114
+      grad_level: true
+-
+  week: 11
+  date: 2020-03-31
+  title: Feed-forward neural networks
+  lecturer: Lane Schwartz
+  slides: "slides/ff_nn_lm.pdf"
+  reading:
+    -
+      author: Koehn
+      title: "\"Neural Language Models\", Ch. 7.0-7.2 of \"Neural Machine Translation\""
+      pages: 115-121
+-
+  week: 11
+  date: 2020-04-02
+  title: Recurrent neural language models
+  slides: "slides/rnn_lm.pdf"
+  reading:
+    -
+      author: Koehn
+      title: "\"Recurrent Neural Language Models\", Ch. 7.4 of \"Neural Machine Translation\""
+      pages: 122-124
+-
+  week: 12
+  date: 2020-04-07
+  title: Neural machine translation
+  reading:  
+    -
+      author: Le & Schuster 
+      title: A Neural Network for Machine Translation, at Production Scale
+      url: https://research.googleblog.com/2016/09/a-neural-network-for-machine.html
+    -
+      author: Koehn
+      title: "\"Neural Translation Models\", Ch. 8.0-8.2 of \"Neural Machine Translation\""
+      pages: 137-142
+-
+  week: 12
+  date: 2020-04-09
+  title: "MT in the Big Picture"
+  lecturer: Lane Schwartz
+  reading:
+    -
+      author: Koehn
+      title: "\"The Translation Problem\", Ch. 1 of \"Neural Machine Translation\""
+      pages: 23-37
+    -
+      author: Koehn
+      title: "\"Uses of Machine Translation\", Ch. 2 of \"Neural Machine Translation\""
+      pages: 39-47
+-
+  week: 13
+  date: 2020-04-14
+  title: "MT in Evaluation"
+  lecturer: Lane Schwartz
+  slides: http://statmt.org/book/slides/08-evaluation.pdf
+  reading:
+    -
+      author: Koehn
+      title: "\"Evaluation\", Ch. 4 of \"Neural Machine Translation\""
+      pages: 59-80
+    -
+      author: Hutchins
+      title: "Has machine translation improved? Some historical comparisons"
+      url: http://www.mt-archive.info/00/MTS-2003-Hutchins.pdf
+-
+  week: 13
+  date: 2020-04-16
+  title: MT in Everyday Life
+  lecturer: Lane Schwartz
+  reading:
+    -
+      author: "Yang & Lange"
+      title: "SYSTRAN on AltaVista: A User Study on Real-Time Machine Translation on the Internet"
+      url: http://link.springer.com.proxy2.library.illinois.edu/content/pdf/10.1007%2F3-540-49478-2_25.pdf
+    -
+      author: Och
+      title: "Statistical machine translation live"
+      url: http://googleresearch.blogspot.com/2006/04/statistical-machine-translation-live.html
+    -
+      author: "Gaspari & Hutchins"
+      title: "Online and Free! Ten Years of Online Machine Translation: Origins, Developments, Current Use and Future Prospects"
+      url: http://www.mt-archive.info/MTS-2007-Gaspari-1.pdf
+    -
+      author: Och
+      title: "51 Languages in Google Translate"
+      url: http://googleresearch.blogspot.com/2009/08/51-languages-in-google-translate.html
+    -
+      author: Bright
+      title: "Skype Translator is the most futuristic thing I've ever used"
+      url: http://arstechnica.com/information-technology/2014/12/skype-translator-is-the-most-futuristic-thing-ive-ever-used/
+    -
+      author: Gu
+      title: "Google Translate’s instant camera translation gets an upgrade"
+      url: https://www.blog.google/products/translate/google-translates-instant-camera-translation-gets-upgrade/
+    -
+      author: Greene
+      title: "Language: Finding a voice"
+      url: http://www.economist.com/technology-quarterly/2017-05-01/language
+-
+  week: 14
+  date: 2020-04-21
+  title: "MT in the U.S. Government"
+  lecturer: Lane Schwartz
+  reading:
+    -
+      author: NSA
+      title: GISTER
+      url: papers/1991_Cryptolog.pdf
+    -
+      author: Reeder
+      title: "At Your Service: Embedded MT As a Service"
+      url: http://www.aclweb.org/anthology/W00-0503
+    -
+      author: Pedtke
+      title: "U.S. Government Support and Use of Machine Translation: Current Status"
+      url: http://mt-archive.info/MTS-1997-Pedtke.pdf
+-
+  week: 14
+  date: 2020-04-23
+  title: "MT in Industry"
+  lecturer: Lane Schwartz
+  reading:
+    -
+      author: "Plitt & Masselot"
+      title: "A Productivity Test of Statistical Machine Translation Post-Editing in a Typical Localization Context"
+      url: https://ufal.mff.cuni.cz/pbml/93/art-plitt-masselot.pdf  
+-
+  week: 15
+  date: 2020-04-28
+  title: AI and the Turing Test
+  lecturer: Lane Schwartz
+  reading:
+    -
+      author: Turing
+      title: Computing Machinery and Intelligence
+      url: http://mind.oxfordjournals.org/content/LIX/236/433
+    -
+      author: Morber
+      title: If software looks like a brain and acts like a brain—will we treat it like one?
+      url: http://arstechnica.com/science/2015/02/if-software-looks-like-a-brain-and-acts-like-a-brain-will-we-treat-it-like-one/
+    -
+      author: Weizenbaum
+      title: ELIZA
+      url: http://dl.acm.org.proxy2.library.illinois.edu/ft_gateway.cfm?id=365168&ftid=64039&dwn=1
+      optional: true  
+-
+  week: 15
+  date: 2020-04-30
+  title: The Chinese Room
+  lecturer: Lane Schwartz
+  reading:
+    -
+      author: Searle
+      title: Minds, Brains, and Programs
+      url: http://journals.cambridge.org.proxy2.library.illinois.edu/download.php?file=%2FBBS%2FBBS3_03%2FS0140525X00005756a.pdf
+      pages: 417-423
+    -
+      author: Abelson, et al
+      title: Peer Commentary to Minds, Brains, and Programs
+      url: http://journals.cambridge.org.proxy2.library.illinois.edu/download.php?file=%2FBBS%2FBBS3_03%2FS0140525X00005756a.pdf
+      grad_level: true
+      pages: 423-450
+    -
+      author: Searle
+      title: Author's Response to Peer Commentary to Minds, Brains, and Programs
+      url: http://journals.cambridge.org.proxy2.library.illinois.edu/download.php?file=%2FBBS%2FBBS3_03%2FS0140525X00005756a.pdf
+      pages: 450-456
+    -
+      author: Searle
+      title: Chinese room argument
+      url: http://www.scholarpedia.org/article/Chinese_room_argument
+      optional: true
+    -
+      author: Searle
+      title: "Consciousness in Artificial Intelligence - Guest lecture at Google"
+      url: https://www.youtube.com/watch?v=rHKwIYsPXLg
+      optional: true
+-
+  week: 16
+  date: 2020-05-05
+  title: Exam Review
+  lecturer: Lane Schwartz
+
