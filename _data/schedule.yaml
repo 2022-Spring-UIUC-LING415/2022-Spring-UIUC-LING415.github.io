@@ -5,9 +5,13 @@
   lecturer: Lane Schwartz
   reading:
     -
-     author: Lewis-Kraus 
-     title: Is Translation an Art or a Math Problem?
-     url: https://web.archive.org/web/20150604110344/https://www.nytimes.com/2015/06/07/magazine/is-translation-an-art-or-a-math-problem.html
+      author: PrairieLearn
+      title: Quiz 00
+      url: https://www.prairielearn.org/pl/course_instance/129005
+    -
+      author: Lewis-Kraus 
+      title: Is Translation an Art or a Math Problem?
+      url: https://web.archive.org/web/20150604110344/https://www.nytimes.com/2015/06/07/magazine/is-translation-an-art-or-a-math-problem.html
     -
       author: Hutchins
       title:  The history of machine translation in a nutshell
@@ -29,6 +33,10 @@
   slides: slides/Universal_Language_in_the_17th_Century.pdf
   lecturer: Lane Schwartz
   reading:
+    -
+      author: PrairieLearn
+      title: Quiz 01
+      url: https://www.prairielearn.org/pl/course_instance/129005
     -
       author: Schwartz
       title: Video Lecture
@@ -101,6 +109,10 @@
   lecturer: Lane Schwartz
   reading:
     -
+      author: PrairieLearn
+      title: Quiz 02
+      url: https://www.prairielearn.org/pl/course_instance/129005
+    -
       author: Hutchins
       title:  Two precursors of machine translation - Artsrouni and Trojanskij
       url: https://aclanthology.org/www.mt-archive.info/00/IJT-2004-Hutchins.pdf   
@@ -110,6 +122,10 @@
   title: Machine Translation in the 1940s 
   lecturer: Lane Schwartz
   reading:
+    -
+      author: PrairieLearn
+      title: Quiz 03
+      url: https://www.prairielearn.org/pl/course_instance/129005
     -
       author: Hutchins
       title: Milestones in MT - How it all began in 1947 and 1948
@@ -138,6 +154,10 @@
   slides: slides/Noisy_Channel_Model.pdf
   reading:
     -
+      author: PrairieLearn
+      title: Quiz 04
+      url: https://www.prairielearn.org/pl/course_instance/129005
+    -
       author: Schwartz
       title: Video Lecture (The Noisy Channel Model)
       url: https://www.youtube.com/watch?v=zjWXLD_ihOc
@@ -162,6 +182,10 @@
   lecturer: Lane Schwartz
   reading:
     -
+      author: PrairieLearn
+      title: Quiz 05
+      url: https://www.prairielearn.org/pl/course_instance/129005
+    -
       author: Hutchins
       title: Milestones in MT - Bar-Hillel's survey
       url: https://aclanthology.org/www.mt-archive.info/90/LangToday-1998-Hutchins-2.pdf
@@ -184,6 +208,10 @@
   title: 1954-1966 The Decade of Optimism
   lecturer: Lane Schwartz
   reading:
+    -
+      author: PrairieLearn
+      title: Quiz 06
+      url: https://www.prairielearn.org/pl/course_instance/129005
     -
       author: Hutchins
       title: Milestones in MT - The IBM-Georgetown Demonstration
@@ -238,6 +266,10 @@
   lecturer: Lane Schwartz
   reading:
     -
+      author: PrairieLearn
+      title: Quiz 07
+      url: https://www.prairielearn.org/pl/course_instance/129005
+    -
       author: Hutchins
       title: ALPAC - the (in)famous report
       url: https://aclanthology.org/www.mt-archive.info/90/MTNI-1996-Hutchins.pdf
@@ -254,6 +286,10 @@
   slides: http://statmt.org/book/slides/11-tree-based-models.pdf
   reading:
     -
+      author: PrairieLearn
+      title: Quiz 08
+      url: https://www.prairielearn.org/pl/course_instance/129005
+    -
       author: Koehn
       title: "\"Tree-Based Models\", Ch. 11.0-11.2 of \"Statistical Machine Translation\""
       pages: 331-346
@@ -268,6 +304,10 @@
   title: "Approaches to MT: The Vauquois Triangle"
   lecturer: Lane Schwartz
   reading:
+    -
+      author: PrairieLearn
+      title: Quiz 09
+      url: https://www.prairielearn.org/pl/course_instance/129005
     -
       author: Vauquois
       title: "Automatic Translation - A Survey of Different Approaches"
@@ -287,6 +327,10 @@
   title: Interlingual Machine Translation
   lecturer: Lane Schwartz
   reading:
+    -
+      author: PrairieLearn
+      title: Quiz 10
+      url: https://www.prairielearn.org/pl/course_instance/129005
     -
       author: Melby
       title: The Possibility of Language
@@ -312,6 +356,10 @@
   slides: http://statmt.org/book/slides/07-language-models.pdf
   reading:
     -
+      author: PrairieLearn
+      title: Quiz 11
+      url: https://www.prairielearn.org/pl/course_instance/129005
+    -
       author: Koehn
       title: "\"Language Models\", Ch. 7.0-7.2 of \"Statistical Machine Translation\""
       pages: 181-196
@@ -332,6 +380,10 @@
   lecturer: Lane Schwartz
   slides: http://statmt.org/book/slides/04-word-based-models.pdf
   reading:
+    -
+      author: PrairieLearn
+      title: Quiz 12
+      url: https://www.prairielearn.org/pl/course_instance/129005
     -
       author: Koehn
       title: "\"Word-Based Models\", Ch. 4.0-4.1 of \"Statistical Machine Translation\""
@@ -354,6 +406,10 @@
   slides: http://statmt.org/book/slides/05-phrase-based-models.pdf
   reading:
     -
+      author: PrairieLearn
+      title: Quiz 13
+      url: https://www.prairielearn.org/pl/course_instance/129005
+    -
       author: Koehn
       title: "\"Phrase-Based Models\", Ch. 5.0-5.2 of \"Statistical Machine Translation\""
       pages: 127-136
@@ -374,6 +430,10 @@
   lecturer: Lane Schwartz
   slides: http://statmt.org/book/slides/06-decoding.pdf
   reading:
+    -
+      author: PrairieLearn
+      title: Quiz 14
+      url: https://www.prairielearn.org/pl/course_instance/129005
     -
       author: Koehn
       title: "\"Decoding\", Ch. 6.0-6.2 of \"Statistical Machine Translation\""
@@ -403,6 +463,10 @@
   title: Introduction to neural networks
   lecturer: Lane Schwartz
   reading:
+    -
+      author: PrairieLearn
+      title: Quiz 15
+      url: https://www.prairielearn.org/pl/course_instance/129005
     -
       author: Schwartz
       title: "Video lecture: Neural network concepts - mathematical functions"
@@ -434,6 +498,10 @@
   lecturer: Lane Schwartz
   reading:
     -
+      author: PrairieLearn
+      title: Quiz 16
+      url: https://www.prairielearn.org/pl/course_instance/129005
+    -
       author: Koehn
       title: "\"Computation Graphs\", Ch. 6.0-6.1 of \"Neural Machine Translation\""
       pages: 103-104
@@ -458,6 +526,10 @@
   slides: "slides/ff_nn_lm.pdf"
   reading:
     -
+      author: PrairieLearn
+      title: Quiz 17
+      url: https://www.prairielearn.org/pl/course_instance/129005
+    -
       author: Koehn
       title: "\"Neural Language Models\", Ch. 7.0-7.2 of \"Neural Machine Translation\""
       pages: 115-121
@@ -469,6 +541,10 @@
   slides: "slides/rnn_lm.pdf"
   reading:
     -
+      author: PrairieLearn
+      title: Quiz 18
+      url: https://www.prairielearn.org/pl/course_instance/129005
+    -
       author: Koehn
       title: "\"Recurrent Neural Language Models\", Ch. 7.4 of \"Neural Machine Translation\""
       pages: 122-124
@@ -477,7 +553,11 @@
   week: 12
   date: 2020-04-05
   title: Neural machine translation
-  reading:  
+  reading:
+    -
+      author: PrairieLearn
+      title: Quiz 19
+      url: https://www.prairielearn.org/pl/course_instance/129005
     -
       author: Le & Schuster 
       title: A Neural Network for Machine Translation, at Production Scale
@@ -493,6 +573,10 @@
   title: "MT in the Big Picture"
   lecturer: Lane Schwartz
   reading:
+    -
+      author: PrairieLearn
+      title: Quiz 20
+      url: https://www.prairielearn.org/pl/course_instance/129005
     -
       author: Koehn
       title: "\"The Translation Problem\", Ch. 1 of \"Neural Machine Translation\""
@@ -511,6 +595,10 @@
   slides: http://statmt.org/book/slides/08-evaluation.pdf
   reading:
     -
+      author: PrairieLearn
+      title: Quiz 21
+      url: https://www.prairielearn.org/pl/course_instance/129005
+    -
       author: Koehn
       title: "\"Evaluation\", Ch. 4 of \"Neural Machine Translation\""
       pages: 59-80
@@ -525,6 +613,10 @@
   title: MT in Everyday Life
   lecturer: Lane Schwartz
   reading:
+    -
+      author: PrairieLearn
+      title: Quiz 22
+      url: https://www.prairielearn.org/pl/course_instance/129005
     -
       author: "Yang & Lange"
       title: "SYSTRAN on AltaVista: A User Study on Real-Time Machine Translation on the Internet"
@@ -560,6 +652,10 @@
   lecturer: Lane Schwartz
   reading:
     -
+      author: PrairieLearn
+      title: Quiz 23
+      url: https://www.prairielearn.org/pl/course_instance/129005
+    -
       author: NSA
       title: GISTER
       url: papers/1991_Cryptolog.pdf
@@ -578,6 +674,10 @@
   lecturer: Lane Schwartz
   reading:
     -
+      author: PrairieLearn
+      title: Quiz 24
+      url: https://www.prairielearn.org/pl/course_instance/129005
+    -
       author: "Plitt & Masselot"
       title: "A Productivity Test of Statistical Machine Translation Post-Editing in a Typical Localization Context"
       url: https://ufal.mff.cuni.cz/pbml/93/art-plitt-masselot.pdf  
@@ -587,6 +687,10 @@
   title: AI and the Turing Test
   lecturer: Lane Schwartz
   reading:
+    -
+      author: PrairieLearn
+      title: Quiz 25
+      url: https://www.prairielearn.org/pl/course_instance/129005
     -
       author: Turing
       title: Computing Machinery and Intelligence
@@ -606,6 +710,10 @@
   title: The Chinese Room
   lecturer: Lane Schwartz
   reading:
+    -
+      author: PrairieLearn
+      title: Quiz 26
+      url: https://www.prairielearn.org/pl/course_instance/129005
     -
       author: Searle
       title: Minds, Brains, and Programs
