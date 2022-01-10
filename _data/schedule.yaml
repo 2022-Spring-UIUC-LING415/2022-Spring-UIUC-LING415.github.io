@@ -1,6 +1,6 @@
 -
   week: 1
-  date: 2020-01-21
+  date: 2020-01-18
   title: "Introduction to Machine Translation"
   lecturer: Lane Schwartz
   reading:
@@ -11,7 +11,7 @@
     -
       author: Hutchins
       title:  The history of machine translation in a nutshell
-      url: http://www.mt-archive.info/10/Hutchins-2014.pdf 
+      url: https://aclanthology.org/www.mt-archive.info/10/Hutchins-2014.pdf 
       pages: 1-5
     -
       author: Koehn
@@ -20,10 +20,10 @@
     -
       author: Hutchins
       title: "\"The whisky was invisible\", or Persistent myths of MT"
-      url: http://www.mt-archive.info/90/MTNI-1995-Hutchins.pdf  
+      url: https://aclanthology.org/www.mt-archive.info/90/MTNI-1995-Hutchins.pdf  
 -
   week: 1
-  date: 2020-01-23
+  date: 2020-01-20
   title: Universal Language in the 17th century
   slides: slides/Universal_Language_in_the_17th_Century.pdf
   lecturer: Lane Schwartz
@@ -95,43 +95,43 @@
       optional: true
 -
   week: 2
-  date: 2020-01-28
+  date: 2020-01-25
   title: Machine Translation in the 1930s
   lecturer: Lane Schwartz
   reading:
     -
       author: Hutchins
       title:  Two precursors of machine translation - Artsrouni and Trojanskij
-      url: http://www.mt-archive.info/00/IJT-2004-Hutchins.pdf   
+      url: https://aclanthology.org/www.mt-archive.info/00/IJT-2004-Hutchins.pdf   
 -
   week: 2
-  date: 2020-01-30
+  date: 2020-01-27
   title: Machine Translation in the 1940s 
   lecturer: Lane Schwartz
   reading:
     -
       author: Hutchins
       title: Milestones in MT - How it all began in 1947 and 1948
-      url: http://www.mt-archive.info/90/LangToday-1997-Hutchins.pdf
+      url: https://aclanthology.org/www.mt-archive.info/90/LangToday-1997-Hutchins.pdf
     -
       author: Weaver & Wiener
       title:  Correspondence
-      url: http://www.mt-archive.info/50/Weaver-1947-original.pdf
+      url: https://aclanthology.org/www.mt-archive.info/50/Weaver-1947-original.pdf
     -
       author: Weaver & Prager
       title:  Correspondence
-      url: http://www.mt-archive.info/50/Weaver-1948-1.pdf
+      url: https://aclanthology.org/www.mt-archive.info/50/Weaver-1948-1.pdf
     -
       author: Hutchins
       title: Milestones in MT - Warren Weaver's 1949 memorandum
-      url: http://www.mt-archive.info/90/LangToday-1998-Hutchins-1.pdf
+      url: https://aclanthology.org/www.mt-archive.info/90/LangToday-1998-Hutchins-1.pdf
     -
       author: Weaver
       title: Translation
-      url: http://www.mt-archive.info/50/Weaver-1949.pdf
+      url: https://aclanthology.org/www.mt-archive.info/50/Weaver-1949.pdf
 -
   week: 3
-  date: 2020-02-04
+  date: 2020-02-01
   title: 1948-1950 The Noisy Channel Model
   lecturer: Lane Schwartz
   slides: slides/Noisy_Channel_Model.pdf
@@ -143,7 +143,7 @@
     -
       author: Weaver
       title: The Mathematics of Communications
-      url: http://www.mt-archive.info/50/SciAm-1949-Weaver.pdf
+      url: https://aclanthology.org/www.mt-archive.info/50/SciAm-1949-Weaver.pdf
     -
       author: Chiu, et al
       title: Mathematical Theory of Claude Shannon
@@ -156,7 +156,7 @@
       grad_level: true
 -
   week: 3
-  date: 2020-02-06
+  date: 2020-02-03
   title: 1951-1952 - Academic MT Research Begins
   lecturer: Lane Schwartz
   reading:
@@ -167,7 +167,7 @@
     -
       author: Bar-Hillel
       title: The Present State of Research on Mechanical Translation
-      url: http://www.mt-archive.info/Bar-Hillel-1951.pdf
+      url: https://aclanthology.org/www.mt-archive.info/Bar-Hillel-1951.pdf
     -
       author: Hutchins
       title: Milestones in MT - The first machine translation conference
@@ -175,18 +175,18 @@
     -
       author: Reifler
       title: The First Conference on Mechanical Translation
-      url: http://www.mt-archive.info/50/MT-1954-Reifler.pdf
+      url: https://aclanthology.org/www.mt-archive.info/50/MT-1954-Reifler.pdf
       optional: true
 -
   week: 4
-  date: 2020-02-11
+  date: 2020-02-08
   title: 1954-1966 The Decade of Optimism
   lecturer: Lane Schwartz
   reading:
     -
       author: Hutchins
       title: Milestones in MT - The IBM-Georgetown Demonstration
-      url: http://www.mt-archive.info/90/LangToday-1999-Hutchins.pdf
+      url: https://aclanthology.org/www.mt-archive.info/90/LangToday-1999-Hutchins.pdf
     -
       author: Welt im Bild
       title: Newscast from 26 January 1954 (03:35-04:20 in the video)
@@ -194,45 +194,45 @@
     -
       author: New York Times
       title: Russian is turned into English by a fast electronic translator
-      url: http://www.mt-archive.info/NYT-1954-Plumb.pdf
+      url: https://aclanthology.org/www.mt-archive.info/NYT-1954-Plumb.pdf
     -
       author: New York Herald Tribune
       title: Electronic Linguistics
-      url: http://www.mt-archive.info/NYHT-1954-2.pdf
+      url: https://aclanthology.org/www.mt-archive.info/NYHT-1954-2.pdf
     -
       author: Toronto Globe and Mail
       title: Electronic Translations Possible in Five Years
-      url: http://www.mt-archive.info/GlobeMail-1954.pdf
+      url: https://aclanthology.org/www.mt-archive.info/GlobeMail-1954.pdf
     -
       author: IBM Press Release
       title:  701 Translator
-      url: http://www.mt-archive.info/IBM-1954.pdf
+      url: https://aclanthology.org/www.mt-archive.info/IBM-1954.pdf
       optional: true   
     -
       author: Hutchins
       title: Milestones in MT - Bar-Hillel and the nonfeasibility of FAHQT
-      url: http://www.mt-archive.info/90/IJLangDoc-1999-Hutchins.pdf
+      url: https://aclanthology.org/www.mt-archive.info/90/IJLangDoc-1999-Hutchins.pdf
     -
       author: Bar-Hillel
       title: The Present Status of Automatic Translation of Languages
-      url: http://www.mt-archive.info/Bar-Hillel-1960.pdf
+      url: https://aclanthology.org/www.mt-archive.info/Bar-Hillel-1960.pdf
     -
       author: Yngve
       title: Sentence-for-sentence translation
-      url: http://www.mt-archive.info/50/MT-1955-Yngve.pdf
+      url: https://aclanthology.org/www.mt-archive.info/50/MT-1955-Yngve.pdf
       grad_level: true
     -
       author: Parker-Rhodes
       title: An Electronic Computer Program for Translating Chinese into English
-      url: http://www.mt-archive.info/50/MT-1956-Parker-Rhodes.pdf
+      url: https://aclanthology.org/www.mt-archive.info/50/MT-1956-Parker-Rhodes.pdf
       optional: true
     -
       author: King
       title: Stochastic Methods of Mechanical Translation
-      url: http://www.mt-archive.info/50/MT-1956-King.pdf
+      url: https://aclanthology.org/www.mt-archive.info/50/MT-1956-King.pdf
 -
   week: 4
-  date: 2020-02-13
+  date: 2020-02-10
   title: 1966 - The ALPAC Report
   lecturer: Lane Schwartz
   reading:
@@ -243,11 +243,11 @@
     -
       author: ALPAC
       title: Language and Machines - Computers in Translation and Linguistics
-      url: http://www.mt-archive.info/50/ALPAC-1966.pdf
+      url: https://aclanthology.org/www.mt-archive.info/50/ALPAC-1966.pdf
       pages: 1-35
 -
   week: 5
-  date: 2020-02-18
+  date: 2020-02-15
   title: Tree-Based Models
   lecturer: Lane Schwartz
   slides: http://statmt.org/book/slides/11-tree-based-models.pdf
@@ -262,14 +262,14 @@
       url: http://statmt.org/book/slides/11-tree-based-models.pdf 
 -
   week: 5
-  date: 2020-02-20
+  date: 2020-02-17
   title: "Approaches to MT: The Vauquois Triangle"
   lecturer: Lane Schwartz
   reading:
     -
       author: Vauquois
       title: "Automatic Translation - A Survey of Different Approaches"
-      url: http://www.mt-archive.info/70/SMIL-1976-Vauquois.pdf
+      url: https://aclanthology.org/www.mt-archive.info/70/SMIL-1976-Vauquois.pdf
     -
       author: "Hutchins & Somers"
       title: "An Introduction to machine translation (Ch. 4)"
@@ -281,7 +281,7 @@
       optional: true
 -
   week: 6
-  date: 2020-02-25
+  date: 2020-02-22
   title: Interlingual Machine Translation
   lecturer: Lane Schwartz
   reading:
@@ -297,11 +297,11 @@
     -
       author: Delavenay
       title: "\"Languages, Interlanguage, and Metalanguage\", Ch. 4.1 of \"An Introduction to Machine Translation\""
-      url: http://www.mt-archive.info/50/Delavenay-1960.pdf
+      url: https://aclanthology.org/www.mt-archive.info/50/Delavenay-1960.pdf
       pages: 46-54
 -
   week: 6
-  date: 2020-02-27
+  date: 2020-02-24
   title: N-gram language models
   slides: http://statmt.org/book/slides/07-language-models.pdf
   reading:
@@ -320,10 +320,10 @@
       optional: true  
 -
   week: 7
-  date: 2020-03-03
+  date: 2020-03-01
 -
   week: 7
-  date: 2020-03-05
+  date: 2020-03-03
   title: Statistical Word-Based MT
   lecturer: Lane Schwartz
   slides: http://statmt.org/book/slides/04-word-based-models.pdf
@@ -343,7 +343,7 @@
       grad_level: true
 -
   week: 8
-  date: 2020-03-10
+  date: 2020-03-08
   title: Statistical Phrase-Based MT
   lecturer: Lane Schwartz
   slides: http://statmt.org/book/slides/05-phrase-based-models.pdf
@@ -382,17 +382,17 @@
       url: https://www.youtube.com/edit?o=U&video_id=yX8_3zTRYzo
 -
   week: 09
-  date: 2020-03-17
+  date: 2020-03-15
   title: Spring Break
   lecturer:
 -
   week: 09
-  date: 2020-03-19
+  date: 2020-03-17
   title: Spring Break
   lecturer:
 -
   week: 10
-  date: 2020-03-24
+  date: 2020-03-22
   title: Introduction to neural networks
   lecturer: Lane Schwartz
   reading:
@@ -419,7 +419,7 @@
       pages: 93-94
 -
   week: 10
-  date: 2020-03-26
+  date: 2020-03-24
   title: Neural networks as computation graphs
   lecturer: Lane Schwartz
   reading:
@@ -439,7 +439,7 @@
       grad_level: true
 -
   week: 11
-  date: 2020-03-31
+  date: 2020-03-29
   title: Feed-forward neural networks
   lecturer: Lane Schwartz
   slides: "slides/ff_nn_lm.pdf"
@@ -450,7 +450,7 @@
       pages: 115-121
 -
   week: 11
-  date: 2020-04-02
+  date: 2020-03-31
   title: Recurrent neural language models
   slides: "slides/rnn_lm.pdf"
   reading:
@@ -460,7 +460,7 @@
       pages: 122-124
 -
   week: 12
-  date: 2020-04-07
+  date: 2020-04-05
   title: Neural machine translation
   reading:  
     -
@@ -473,7 +473,7 @@
       pages: 137-142
 -
   week: 12
-  date: 2020-04-09
+  date: 2020-04-07
   title: "MT in the Big Picture"
   lecturer: Lane Schwartz
   reading:
@@ -487,7 +487,7 @@
       pages: 39-47
 -
   week: 13
-  date: 2020-04-14
+  date: 2020-04-12
   title: "MT in Evaluation"
   lecturer: Lane Schwartz
   slides: http://statmt.org/book/slides/08-evaluation.pdf
@@ -499,10 +499,10 @@
     -
       author: Hutchins
       title: "Has machine translation improved? Some historical comparisons"
-      url: http://www.mt-archive.info/00/MTS-2003-Hutchins.pdf
+      url: https://aclanthology.org/www.mt-archive.info/00/MTS-2003-Hutchins.pdf
 -
   week: 13
-  date: 2020-04-16
+  date: 2020-04-14
   title: MT in Everyday Life
   lecturer: Lane Schwartz
   reading:
@@ -517,7 +517,7 @@
     -
       author: "Gaspari & Hutchins"
       title: "Online and Free! Ten Years of Online Machine Translation: Origins, Developments, Current Use and Future Prospects"
-      url: http://www.mt-archive.info/MTS-2007-Gaspari-1.pdf
+      url: https://aclanthology.org/www.mt-archive.info/MTS-2007-Gaspari-1.pdf
     -
       author: Och
       title: "51 Languages in Google Translate"
@@ -536,7 +536,7 @@
       url: http://www.economist.com/technology-quarterly/2017-05-01/language
 -
   week: 14
-  date: 2020-04-21
+  date: 2020-04-19
   title: "MT in the U.S. Government"
   lecturer: Lane Schwartz
   reading:
@@ -554,7 +554,7 @@
       url: http://mt-archive.info/MTS-1997-Pedtke.pdf
 -
   week: 14
-  date: 2020-04-23
+  date: 2020-04-21
   title: "MT in Industry"
   lecturer: Lane Schwartz
   reading:
@@ -564,7 +564,7 @@
       url: https://ufal.mff.cuni.cz/pbml/93/art-plitt-masselot.pdf  
 -
   week: 15
-  date: 2020-04-28
+  date: 2020-04-26
   title: AI and the Turing Test
   lecturer: Lane Schwartz
   reading:
@@ -583,7 +583,7 @@
       optional: true  
 -
   week: 15
-  date: 2020-04-30
+  date: 2020-04-28
   title: The Chinese Room
   lecturer: Lane Schwartz
   reading:
@@ -615,7 +615,7 @@
       optional: true
 -
   week: 16
-  date: 2020-05-05
+  date: 2020-05-03
   title: Exam Review
   lecturer: Lane Schwartz
 
