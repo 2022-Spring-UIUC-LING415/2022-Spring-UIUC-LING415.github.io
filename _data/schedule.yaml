@@ -304,6 +304,10 @@
 -
   week: 6
   date: 2020-02-24
+  title: Mid-Term Exam Review
+-
+  week: 7
+  date: 2020-03-01
   title: N-gram language models
   slides: http://statmt.org/book/slides/07-language-models.pdf
   reading:
@@ -321,9 +325,6 @@
       title: "\"N-gram language models\", Ch. 3 of \"Speech and Language Processing, draft 3rd edition\""
       url: https://web.stanford.edu/~jurafsky/slp3/3.pdf
       optional: true  
--
-  week: 7
-  date: 2020-03-01
 -
   week: 7
   date: 2020-03-03
