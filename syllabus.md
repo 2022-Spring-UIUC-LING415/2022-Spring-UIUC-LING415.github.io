@@ -77,7 +77,7 @@ Students are expected to regularly review the schedule of assigned readings and 
 <li>Students are responsible for <b>all</b> of the material covered in every reading.</li>
 <li>Students are responsible for <b>all</b> of the material covered in every video lecture.</li>
 <li>Students are responsible for <b>all</b> of the material covered in class.</li>
-<li>Students are responsible for <b>all</b> of the material covered in public Piazza posts. This includes clarifications to homework instructions.</li>
+<li>Students are responsible for <b>all</b> of the material covered in class forum posts. This includes clarifications to homework instructions.</li>
 </ul>
 
 
