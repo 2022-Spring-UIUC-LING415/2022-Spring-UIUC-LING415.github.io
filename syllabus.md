@@ -117,11 +117,7 @@ Students are expected complete all assigned readings and video lectures prior to
 </p>
 
 <p>
-If a student will be absent from class for any reason, the student is expected to inform the course instructor by <a href="https://piazza.com/class/k51iq0dfqqy47p?cid=9">posting to this Piazza thread</a> ahead of time. Daily participation credit for excused absences may, at the discretion of the instructor, be made up by means of additional assignments.
-</p>
-
-<p>
-If a student has a disability or condition that requires special consideration, the student is expected to present the requisite letter from the University Division of Disability Resources and Educational Services no later than the beginning of the second day of class.
+If a student will be absent from class for any reason, the student is expected to inform the course instructor by posting to the relevant class forum thread ahead of time. Daily participation credit for excused absences may, at the discretion of the instructor, be made up by means of additional assignments.
 </p>
 
 
