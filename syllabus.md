@@ -11,7 +11,7 @@ active_tab: syllabus
 <h2>Academic Integrity</h2>
 
 <p>
-This course follows the <a href="http://studentcode.illinois.edu/article1_part4_1-401.html">University of Illinois Student Code regarding Academic Integrity</a>. The College of Liberal Arts and Sciences also has <a href="http://www.las.illinois.edu/students/integrity/">an excellent web page on the topic</a>. You are expected to read these resources prior to the second day of class, and to understand your responsibilities with regard to Academic Integrity. 
+This course follows the <a href="https://studentcode.illinois.edu/article1/part4/1-401">University of Illinois Student Code regarding Academic Integrity</a>. The College of Liberal Arts and Sciences also has <a href="http://www.las.illinois.edu/students/integrity/">an excellent web page on the topic</a>. You are expected to read these resources prior to the second day of class, and to understand your responsibilities with regard to Academic Integrity. 
 </p>
 
 <p>
