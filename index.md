@@ -27,7 +27,8 @@ Textbook
 
 [Statistical Machine Translation](http://www.statmt.org/book/) (<a href="http://statmt.org/book/errata.html">errata</a>) 
 by <a href="http://www.cs.jhu.edu/~phi/">Philipp Koehn</a><br>
-You can purchase the book at the [University of Illinois Bookstore](https://bookstore.illinois.edu/buy_book_detail.asp?pf_id=14682049) and through [Amazon](http://www.amazon.com/Statistical-Machine-Translation-Philipp-Koehn/dp/0521874157). You can also <a href="https://www.amazon.com/Statistical-Machine-Translation-Philipp-Koehn-ebook/dp/B00AKE1W9O">rent or purchase the Kindle eBook version of this text</a> from Amazon.
+You can purchase the book at the [University of Illinois Bookstore](https://bookstore.illinois.edu/buy_book_detail.asp?pf_id=14682049) and through [Amazon](http://www.amazon.com/Statistical-Machine-Translation-Philipp-Koehn/dp/0521874157).<br>
+You can also <a href="https://www.amazon.com/Statistical-Machine-Translation-Philipp-Koehn-ebook/dp/B00AKE1W9O">rent or purchase the Kindle eBook version of this text</a> from Amazon.
 
 [Neural Machine Translation](http://www.statmt.org/nmt-book) by <a href="http://www.cs.jhu.edu/~phi/">Philipp Koehn</a><br> 
 You can purchase the book at the [University of Illinois Bookstore](https://bookstore.illinois.edu/buy_book_detail.asp?pf_id=15480279) and through [Amazon](https://www.amazon.com/Neural-Machine-Translation-Philipp-Koehn-dp-1108497322/dp/1108497322).
