@@ -27,10 +27,9 @@ Students are expected complete all assigned readings and video lectures prior to
 </p>
 
 <ul>
-<li><b>Homework Quizzes</b>: 20%</li>
-<li><b>Class Participation</b>: 20%</li>
-<li><b>Mid-term Exam 1</b>: 20%</li>
-<li><b>Mid-term Exam 2</b>: 20%</li>
+<li><b>Homework Quizzes</b>: 30%</li>
+<li><b>Class Participation</b>: 30%</li>
+<li><b>Mid-term Exam</b>: 20%</li>
 <li><b>Comprehensive Final Exam</b>: 20%</li>
 </ul>
 
@@ -106,7 +105,7 @@ Students who do so are expected to attain the learning goals and outcomes.
 <h2>DRES</h2>
 
 <p>
-If a student has a disability or condition that requires special consideration, the student is expected to present the requisite letter from the University Division of Disability Resources and Educational Services no later than the beginning of the second day of class.
+If a student has a disability or condition that requires special consideration, the student is expected to present the requisite letter from the University Division of Disability Resources and Educational Services as soon as possible, preferably no later than the beginning of the second day of class.
 </p>
 
 

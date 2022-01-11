@@ -3,3 +3,4 @@ _site/
 quiz/
 local/
 template.zip
+.DS_Store
