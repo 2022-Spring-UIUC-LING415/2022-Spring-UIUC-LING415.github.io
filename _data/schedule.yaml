@@ -597,7 +597,7 @@
       title: Attention is All You Need
       pages: 1-10
       url: https://arxiv.org/pdf/1706.03762.pdf
-      optional: true
+      grad_level: true
 -
   week: 13
   date: 2020-04-12
