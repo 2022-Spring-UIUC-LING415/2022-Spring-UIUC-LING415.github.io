@@ -570,12 +570,43 @@
 -
   week: 12
   date: 2020-04-07
-  title: "MT in the Big Picture"
+  title: Attention is All You Need
   lecturer: Lane Schwartz
   reading:
     -
       author: PrairieLearn
       title: Quiz 20
+      url: https://www.prairielearn.org/pl/course_instance/129005
+    -
+      author: Koehn
+      title: "\"Alternate Architectures\", Ch. 11.0-11.1.4 of \"Neural Machine Translation\""
+      pages: 193-198
+      url: https://doi-org.proxy2.library.illinois.edu/10.1017/9781108608480
+    -
+      author: Koehn
+      title: "\"Attention Models\", Ch. 11.2 of \"Neural Machine Translation\""
+      pages: 199-203
+      url: https://doi-org.proxy2.library.illinois.edu/10.1017/9781108608480
+    -
+      author: Koehn
+      title: "\"Self-Attention: Transformer\", Ch. 11.5 of \"Neural Machine Translation\""
+      pages: 207-210
+      url: https://doi-org.proxy2.library.illinois.edu/10.1017/9781108608480
+    -
+      author: Vaswani
+      title: Attention is All You Need
+      pages: 1-10
+      url: https://arxiv.org/pdf/1706.03762.pdf
+      optional: true
+-
+  week: 13
+  date: 2020-04-12
+  title: "MT in the Big Picture"
+  lecturer: Lane Schwartz
+  reading:
+    -
+      author: PrairieLearn
+      title: Quiz 21
       url: https://www.prairielearn.org/pl/course_instance/129005
     -
       author: Koehn
@@ -589,14 +620,14 @@
       url: https://doi-org.proxy2.library.illinois.edu/10.1017/9781108608480
 -
   week: 13
-  date: 2020-04-12
+  date: 2020-04-14
   title: "MT in Evaluation"
   lecturer: Lane Schwartz
   slides: http://statmt.org/book/slides/08-evaluation.pdf
   reading:
     -
       author: PrairieLearn
-      title: Quiz 21
+      title: Quiz 22
       url: https://www.prairielearn.org/pl/course_instance/129005
     -
       author: Koehn
@@ -608,14 +639,40 @@
       title: "Has machine translation improved? Some historical comparisons"
       url: https://aclanthology.org/www.mt-archive.info/00/MTS-2003-Hutchins.pdf
 -
-  week: 13
-  date: 2020-04-14
-  title: MT in Everyday Life
+  week: 14
+  date: 2020-04-19
+  title: "MT in Industry and Government"
   lecturer: Lane Schwartz
   reading:
     -
       author: PrairieLearn
-      title: Quiz 22
+      title: Quiz 23
+      url: https://www.prairielearn.org/pl/course_instance/129005
+    -
+      author: "Plitt & Masselot"
+      title: "A Productivity Test of Statistical Machine Translation Post-Editing in a Typical Localization Context"
+      url: https://ufal.mff.cuni.cz/pbml/93/art-plitt-masselot.pdf  
+    -
+      author: NSA
+      title: GISTER
+      url: papers/1991_Cryptolog.pdf
+    -
+      author: Reeder
+      title: "At Your Service: Embedded MT As a Service"
+      url: http://www.aclweb.org/anthology/W00-0503
+    -
+      author: Pedtke
+      title: "U.S. Government Support and Use of Machine Translation: Current Status"
+      url: https://aclanthology.org/www.mt-archive.info/90/MTS-1997-Pedtke.pdf
+-
+  week: 14
+  date: 2020-04-21
+  title: "MT in Everyday Life"
+  lecturer: Lane Schwartz
+  reading:
+    -
+      author: PrairieLearn
+      title: Quiz 24
       url: https://www.prairielearn.org/pl/course_instance/129005
     -
       author: "Yang & Lange"
@@ -645,42 +702,6 @@
       author: Greene
       title: "Language: Finding a voice"
       url: https://web.archive.org/web/20170107005106/http://www.economist.com/technology-quarterly/2017-05-01/language
--
-  week: 14
-  date: 2020-04-19
-  title: "MT in the U.S. Government"
-  lecturer: Lane Schwartz
-  reading:
-    -
-      author: PrairieLearn
-      title: Quiz 23
-      url: https://www.prairielearn.org/pl/course_instance/129005
-    -
-      author: NSA
-      title: GISTER
-      url: papers/1991_Cryptolog.pdf
-    -
-      author: Reeder
-      title: "At Your Service: Embedded MT As a Service"
-      url: http://www.aclweb.org/anthology/W00-0503
-    -
-      author: Pedtke
-      title: "U.S. Government Support and Use of Machine Translation: Current Status"
-      url: https://aclanthology.org/www.mt-archive.info/90/MTS-1997-Pedtke.pdf
--
-  week: 14
-  date: 2020-04-21
-  title: "MT in Industry"
-  lecturer: Lane Schwartz
-  reading:
-    -
-      author: PrairieLearn
-      title: Quiz 24
-      url: https://www.prairielearn.org/pl/course_instance/129005
-    -
-      author: "Plitt & Masselot"
-      title: "A Productivity Test of Statistical Machine Translation Post-Editing in a Typical Localization Context"
-      url: https://ufal.mff.cuni.cz/pbml/93/art-plitt-masselot.pdf  
 -
   week: 15
   date: 2020-04-26
