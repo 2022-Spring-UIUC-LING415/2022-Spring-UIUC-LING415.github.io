@@ -202,6 +202,16 @@
       title: The First Conference on Mechanical Translation
       url: https://aclanthology.org/www.mt-archive.info/50/MT-1954-Reifler.pdf
       optional: true
+    -
+      author: Hutchins
+      title: Proceedings of the First Conference on Mechanical Translation
+      url: https://aclanthology.org/www.mt-archive.info/50/MIT-1952-TOC.htm
+      optional: true
+    -
+      author: Richens and Booth
+      title: Some Methods of Mechanized Translation
+      url: https://aclanthology.org/www.mt-archive.info/MIT-1952-Richens.pdf
+      grad_level: true
 -
   week: 4
   date: 2020-02-08
