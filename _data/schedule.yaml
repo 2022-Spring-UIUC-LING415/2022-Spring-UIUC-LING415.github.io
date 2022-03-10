@@ -457,6 +457,16 @@
       author: Schwartz
       title: "Stack decoding video walk-through"
       url: https://www.youtube.com/watch?v=oWVmphEaHZI
+    -
+      author: Knight
+      title: "Decoding complexity in word-replacement translation models"
+      url: https://aclanthology.org/J99-4005.pdf
+      optional: true
+    -
+      author: "Zaslavskiy et al"
+      title: "Phrase-Based Statistical Machine Translation as a Traveling Salesman Problem"
+      url: https://aclanthology.org/P09-1038.pdf
+      optional: true
 -
   week: 09
   date: 2020-03-15
