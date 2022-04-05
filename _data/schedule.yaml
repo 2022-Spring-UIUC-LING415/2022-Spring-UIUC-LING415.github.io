@@ -573,6 +573,7 @@
   week: 12
   date: 2020-04-05
   title: Neural machine translation
+  slides: "http://mt-class.org/jhu/slides/lecture-nmt.pdf"
   reading:
     -
       author: PrairieLearn
@@ -587,11 +588,17 @@
       title: "\"Neural Translation Models\", Ch. 8.0-8.2 of \"Neural Machine Translation\""
       pages: 137-142
       url: https://doi-org.proxy2.library.illinois.edu/10.1017/9781108608480
+    -
+      author: Koehn
+      title: "Machine Translation Lecture: Neural Translation Models"
+      url: https://www.youtube.com/watch?v=1uoOk2S6GUk
+      optional: true
 -
   week: 12
   date: 2020-04-07
   title: Attention is All You Need
   lecturer: Lane Schwartz
+  slides: http://mt-class.org/jhu/slides/lecture-alt-architectures.pdf
   reading:
     -
       author: PrairieLearn
@@ -618,6 +625,11 @@
       pages: 1-10
       url: https://arxiv.org/pdf/1706.03762.pdf
       grad_level: true
+    -
+      author: Koehn
+      title: "Machine Translation Lecture: Alternative Architectures"
+      url: https://youtu.be/p8bj_sIfN6w
+      optional: true
 -
   week: 13
   date: 2020-04-12
