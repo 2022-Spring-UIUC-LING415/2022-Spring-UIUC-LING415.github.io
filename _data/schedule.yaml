@@ -699,41 +699,7 @@
 -
   week: 14
   date: 2020-04-21
-  title: "MT in Everyday Life"
-  lecturer: Lane Schwartz
-  reading:
-    -
-      author: PrairieLearn
-      title: Quiz 24
-      url: https://www.prairielearn.org/pl/course_instance/129005
-    -
-      author: "Yang & Lange"
-      title: "SYSTRAN on AltaVista: A User Study on Real-Time Machine Translation on the Internet"
-      url: http://link.springer.com.proxy2.library.illinois.edu/content/pdf/10.1007%2F3-540-49478-2_25.pdf
-    -
-      author: Och
-      title: "Statistical machine translation live"
-      url: http://googleresearch.blogspot.com/2006/04/statistical-machine-translation-live.html
-    -
-      author: "Gaspari & Hutchins"
-      title: "Online and Free! Ten Years of Online Machine Translation: Origins, Developments, Current Use and Future Prospects"
-      url: https://aclanthology.org/www.mt-archive.info/MTS-2007-Gaspari-1.pdf
-    -
-      author: Och
-      title: "51 Languages in Google Translate"
-      url: http://googleresearch.blogspot.com/2009/08/51-languages-in-google-translate.html
-    -
-      author: Bright
-      title: "Skype Translator is the most futuristic thing I've ever used"
-      url: https://web.archive.org/web/20141229133819/http://arstechnica.com/information-technology/2014/12/skype-translator-is-the-most-futuristic-thing-ive-ever-used/
-    -
-      author: Gu
-      title: "Google Translate’s instant camera translation gets an upgrade"
-      url: https://www.blog.google/products/translate/google-translates-instant-camera-translation-gets-upgrade/
-    -
-      author: Greene
-      title: "Language: Finding a voice"
-      url: https://web.archive.org/web/20170107005106/http://www.economist.com/technology-quarterly/2017-05-01/language
+  title: Final Exam review
 -
   week: 15
   date: 2020-04-26
@@ -794,8 +760,68 @@
       url: https://www.youtube.com/watch?v=rHKwIYsPXLg
       optional: true
 -
+  week: 15
+  date: 2020-04-29
+  title: Final Exam available in CBTF
+  reading:
+   -
+    author: CBTF
+    title: Final Exam
+    url: https://cbtf.engr.illinois.edu/
+-
+  week: 15
+  date: 2020-04-30
+  title: Final Exam available in CBTF
+  reading:
+   -
+    author: CBTF
+    title: Final Exam
+    url: https://cbtf.engr.illinois.edu/
+-
+  week: 15
+  date: 2020-05-01
+  title: Final Exam available in CBTF 
+  reading:
+   -
+    author: CBTF
+    title: Final Exam
+    url: https://cbtf.engr.illinois.edu/
+-
   week: 16
   date: 2020-05-03
-  title: Exam Review
+  title: "MT in Everyday Life"
   lecturer: Lane Schwartz
+  reading:
+    -
+      author: PrairieLearn
+      title: Quiz 24
+      url: https://www.prairielearn.org/pl/course_instance/129005
+    -
+      author: "Yang & Lange"
+      title: "SYSTRAN on AltaVista: A User Study on Real-Time Machine Translation on the Internet"
+      url: http://link.springer.com.proxy2.library.illinois.edu/content/pdf/10.1007%2F3-540-49478-2_25.pdf
+    -
+      author: Och
+      title: "Statistical machine translation live"
+      url: http://googleresearch.blogspot.com/2006/04/statistical-machine-translation-live.html
+    -
+      author: "Gaspari & Hutchins"
+      title: "Online and Free! Ten Years of Online Machine Translation: Origins, Developments, Current Use and Future Prospects"
+      url: https://aclanthology.org/www.mt-archive.info/MTS-2007-Gaspari-1.pdf
+    -
+      author: Och
+      title: "51 Languages in Google Translate"
+      url: http://googleresearch.blogspot.com/2009/08/51-languages-in-google-translate.html
+    -
+      author: Bright
+      title: "Skype Translator is the most futuristic thing I've ever used"
+      url: https://web.archive.org/web/20141229133819/http://arstechnica.com/information-technology/2014/12/skype-translator-is-the-most-futuristic-thing-ive-ever-used/
+    -
+      author: Gu
+      title: "Google Translate’s instant camera translation gets an upgrade"
+      url: https://www.blog.google/products/translate/google-translates-instant-camera-translation-gets-upgrade/
+    -
+      author: Greene
+      title: "Language: Finding a voice"
+      url: https://web.archive.org/web/20170107005106/http://www.economist.com/technology-quarterly/2017-05-01/language
 
